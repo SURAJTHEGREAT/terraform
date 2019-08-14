@@ -1,2 +1,0 @@
-172.31.3.22
-terraform-created-instance-variables
